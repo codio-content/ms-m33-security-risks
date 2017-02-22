@@ -1,0 +1,61 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4266303666",
+  "source": {
+   "name": "Password Checkup",
+   "showName": true,
+   "instructions": "Julie is creating a new account on yahoo. Her username will be mynameisjulie.\n\nWhich of these passwords would be the strongest password?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b4a19ffe-5bce-cbb2-ce8f-f4573d2c8783",
+     "correct": false,
+     "answer": "JuLiE, it has mixed cases and is easy to remember because it is her name."
+    },
+    {
+     "_id": "01a98650-4792-2987-899c-dccda8352c9a",
+     "correct": true,
+     "answer": "Iali2Yrn, which is her passphrase for \"I am logging in to Yahoo right now\""
+    },
+    {
+     "_id": "95f5d7f2-1656-7f74-ca52-7a67db2cc3ba",
+     "correct": false,
+     "answer": "yAHOO!, because it does not contain her name but will be easy to remember and has mixed cases."
+    },
+    {
+     "_id": "d89bfb93-fc18-d17c-5a82-759a51b14053",
+     "correct": false,
+     "answer": "toasty, which is her passphrase for \"this old account sends to yahoo\""
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1215661256",
+  "source": {
+   "name": "Identifying Insecurity",
+   "showName": false,
+   "instructions": "Select the correct label from the drop-down menu.",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<http://>>> prefix means a website may **not** be secure and users should be cautious of entering payment information on the site. \n\nThe <<<https://>>> prefix means a website **is** secure, and a user can enter payment and personal information as long as they trust the company that owns the website. ",
+   "tokens": {
+    "blank": [
+     "http://",
+     "https://"
+    ],
+    "text": [
+     "The ",
+     0,
+     " prefix means a website may **not** be secure and users should be cautious of entering payment information on the site. \n\nThe ",
+     0,
+     " prefix means a website **is** secure, and a user can enter payment and personal information as long as they trust the company that owns the website. "
+    ]
+   }
+  }
+ }
+]

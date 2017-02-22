@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "93a48b4b-1017-d491-6ee4-63a28842b379",
+   "title": "Security",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Security-93a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1eadfa13-e691-e042-d3a1-79cbea2b5e8b",
+   "title": "Security Risks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Security-Risks-1ead.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "968eaaf3-cac1-f647-e2ee-13d16c279c08",
+   "title": "Weak Passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Weak-Passwords-968e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5a325e41-f54f-4baf-ea21-acf094e11b66",
+   "title": "Strong Passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Strong-Passwords-5a32.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ebb4bd9a-42da-768f-224b-3dc7ed6fdb3c",
+   "title": "Lack of Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lack-of-Encryption-ebb4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "20995daf-68f5-31c8-7906-facc62bbe424",
+   "title": "Insecure Transactions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Insecure-Transactions-2099.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ce29808d-33cf-f67c-17cf-94ca29b0eff7",
+   "title": "Persistence of Data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Persistence-of-Data-ce29.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cb9995ea-6ec5-67ef-f78f-9f774c8fafb6",
+   "title": "Passwords",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Passwords-cb99.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8133bef7-e1da-84c4-7241-52dad8e8da91",
+   "title": "Identifying Insecurity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Identifying-Insecurity-8133.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
